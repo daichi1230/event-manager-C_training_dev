@@ -1,4 +1,5 @@
 # Event Manager C
+**npm installが承認されるまではpowershellでdistフォルダー内からpython -m http.server 8100で開ける**
 
 C向けの研修用イベント管理サイトです。A/Bより一段実務寄りで、以下を備えています。
 
